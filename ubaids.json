@@ -1,0 +1,191 @@
+{
+  "Apple_Leaf": {
+    "description": "Healthy apple leaf without any specific diseases or abnormalities.",
+    "symptoms": "No visible symptoms of diseases or infections.",
+    "causes": "N/A",
+    "treatment": "No treatment required for a healthy apple leaf.",
+    "suggested_pesticides": []
+  },
+  "Apple_Rust_Leaf": {
+    "description": "Apple leaf affected by rust, a fungal disease that causes orange-brown spots.",
+    "symptoms": "Rust-like spots on the leaf, which can reduce photosynthesis.",
+    "causes": "Caused by the fungus Puccinia spp.",
+    "treatment": "Fungicides and proper orchard management to control fungal spread.",
+    "suggested_pesticides": ["Fungicide A", "Fungicide B"]
+  },
+  "Apple_Scab_Leaf": {
+    "description": "Apple leaf affected by scab, a common fungal disease in apple trees.",
+    "symptoms": "Dark, scaly lesions on the leaf surface.",
+    "causes": "Caused by the fungus Venturia inaequalis.",
+    "treatment": "Fungicides, pruning, and good orchard hygiene to manage scab outbreaks.",
+    "suggested_pesticides": ["Fungicide C", "Fungicide D"]
+  },
+  "Bell_Pepper_Leaf_Spot": {
+    "description": "Bell pepper leaf with spots caused by bacterial or fungal infections.",
+    "symptoms": "Circular or irregular spots on the leaf surface.",
+    "causes": "Caused by various pathogens, including bacteria or fungi.",
+    "treatment": "Fungicides or bactericides, proper watering, and sanitation to control leaf spot.",
+    "suggested_pesticides": ["Fungicide E", "Bactericide A"]
+  },
+  "Bell_Pepper_Leaf": {
+    "description": "Healthy bell pepper leaf without any specific diseases or abnormalities.",
+    "symptoms": "No visible symptoms of diseases or infections.",
+    "causes": "N/A",
+    "treatment": "No treatment required for a healthy bell pepper leaf.",
+    "suggested_pesticides": []
+  },
+  "Blueberry_Leaf": {
+    "description": "Healthy blueberry leaf without any specific diseases or abnormalities.",
+    "symptoms": "No visible symptoms of diseases or infections.",
+    "causes": "N/A",
+    "treatment": "No treatment required for a healthy blueberry leaf.",
+    "suggested_pesticides": []
+  },
+  "Cherry_Leaf": {
+    "description": "Healthy cherry leaf without any specific diseases or abnormalities.",
+    "symptoms": "No visible symptoms of diseases or infections.",
+    "causes": "N/A",
+    "treatment": "No treatment required for a healthy cherry leaf.",
+    "suggested_pesticides": []
+  },
+  "Corn_Gray_Leaf_Spot": {
+    "description": "Corn leaf affected by gray leaf spot, a common fungal disease.",
+    "symptoms": "Gray or tan lesions with dark borders on the leaf surface.",
+    "causes": "Caused by the fungus Cercospora zeae-maydis.",
+    "treatment": "Fungicides, crop rotation, and resistant corn varieties to manage gray leaf spot.",
+    "suggested_pesticides": ["Fungicide F"]
+  },
+  "Corn_Leaf_Blight": {
+    "description": "Corn leaf affected by leaf blight, a fungal disease.",
+    "symptoms": "Large irregular brown lesions with a target-like appearance on the leaf.",
+    "causes": "Caused by the fungus Helminthosporium maydis.",
+    "treatment": "Fungicides, crop rotation, and resistant corn varieties to manage leaf blight.",
+    "suggested_pesticides": ["Fungicide G"]
+  },
+  "Corn_Rust_Leaf": {
+    "description": "Corn leaf affected by rust, a fungal disease.",
+    "symptoms": "Orange-brown pustules on the leaf surface.",
+    "causes": "Caused by the fungus Puccinia spp.",
+    "treatment": "Fungicides, crop rotation, and resistant corn varieties to manage rust.",
+    "suggested_pesticides": ["Fungicide H"]
+  },
+  "Grape_Leaf_Black_Rot": {
+    "description": "Grape leaf affected by black rot, a common fungal disease.",
+    "symptoms": "Large irregular brown lesions with black edges on the leaf.",
+    "causes": "Caused by the fungus Guignardia bidwellii.",
+    "treatment": "Fungicides, proper vineyard management, and pruning to control black rot.",
+    "suggested_pesticides": ["Fungicide I"]
+  },
+  "Grape_Leaf": {
+    "description": "Healthy grape leaf without any specific diseases or abnormalities.",
+    "symptoms": "No visible symptoms of diseases or infections.",
+    "causes": "N/A",
+    "treatment": "No treatment required for a healthy grape leaf.",
+    "suggested_pesticides": []
+  },
+  "Peach_Leaf": {
+    "description": "Healthy peach leaf without any specific diseases or abnormalities.",
+    "symptoms": "No visible symptoms of diseases or infections.",
+    "causes": "N/A",
+    "treatment": "No treatment required for a healthy peach leaf.",
+    "suggested_pesticides": []
+  },
+  "Potato_Leaf_Early_Blight": {
+    "description": "Potato leaf affected by early blight, a common fungal disease.",
+    "symptoms": "Small, dark lesions with concentric rings on the leaf surface.",
+    "causes": "Caused by the fungus Alternaria solani.",
+    "treatment": "Fungicides, crop rotation, and proper garden hygiene to manage early blight.",
+    "suggested_pesticides": ["Fungicide J"]
+  },
+  "Potato_Leaf_Late_Blight": {
+    "description": "Potato leaf affected by late blight, a potentially devastating fungal disease.",
+    "symptoms": "Large, water-soaked lesions with a greenish-gray mold on the leaf surface.",
+    "causes": "Caused by the fungus Phytophthora infestans.",
+    "treatment": "Fungicides, resistant potato varieties, and proper disease management to control late blight.",
+    "suggested_pesticides": ["Fungicide K"]
+  },
+  "Raspberry_Leaf": {
+    "description": "Healthy raspberry leaf without any specific diseases or abnormalities.",
+    "symptoms": "No visible symptoms of diseases or infections.",
+    "causes": "N/A",
+    "treatment": "No treatment required for a healthy raspberry leaf.",
+    "suggested_pesticides": []
+  },
+  "Soybean_Leaf": {
+    "description": "Healthy soybean leaf without any specific diseases or abnormalities.",
+    "symptoms": "No visible symptoms of diseases or infections.",
+    "causes": "N/A",
+    "treatment": "No treatment required for a healthy soybean leaf.",
+    "suggested_pesticides": []
+  },
+  "Squash_Powdery_Mildew_Leaf": {
+    "description": "Squash leaf affected by powdery mildew, a common fungal disease.",
+    "symptoms": "White powdery spots on the upper surface of the leaf.",
+    "causes": "Caused by various fungi, including Podosphaera spp.",
+    "treatment": "Fungicides, proper plant spacing, and good air circulation to manage powdery mildew.",
+    "suggested_pesticides": ["Fungicide L"]
+  },
+  "Strawberry_Leaf": {
+    "description": "Healthy strawberry leaf without any specific diseases or abnormalities.",
+    "symptoms": "No visible symptoms of diseases or infections.",
+    "causes": "N/A",
+    "treatment": "No treatment required for a healthy strawberry leaf.",
+    "suggested_pesticides": []
+  },
+  "Tomato_Early_Blight_Leaf": {
+    "description": "Tomato leaf affected by early blight, a common fungal disease.",
+    "symptoms": "Small, dark lesions with concentric rings on the leaf surface.",
+    "causes": "Caused by the fungus Alternaria solani.",
+    "treatment": "Fungicides, crop rotation, and proper garden hygiene to manage early blight.",
+    "suggested_pesticides": ["Fungicide M"]
+  },
+  "Tomato_Leaf_Bacterial_Spot": {
+    "description": "Tomato leaf affected by bacterial spot, a bacterial disease.",
+    "symptoms": "Small, dark lesions with a water-soaked appearance on the leaf surface.",
+    "causes": "Caused by the bacterium Xanthomonas campestris pv. vesicatoria.",
+    "treatment": "Copper-based sprays, antibacterial treatments, and proper plant hygiene to manage bacterial spot.",
+    "suggested_pesticides": ["Bactericide B"]
+  },
+  "Tomato_Leaf_Late_Blight": {
+    "description": "Tomato leaf affected by late blight, a potentially devastating fungal disease.",
+    "symptoms": "Large, water-soaked lesions with a greenish-gray mold on the leaf surface.",
+    "causes": "Caused by the fungus Phytophthora infestans.",
+    "treatment": "Fungicides, resistant tomato varieties, and proper disease management to control late blight.",
+    "suggested_pesticides": ["Fungicide N"]
+  },
+  "Tomato_Leaf_Mosaic_Virus": {
+    "description": "Tomato leaf affected by mosaic virus, a viral disease.",
+    "symptoms": "Mottled yellow and green patterns on the leaf surface.",
+    "causes": "Caused by various mosaic viruses, including Tobacco mosaic virus.",
+    "treatment": "No specific cure for viral infections; control measures focus on preventing the spread of the virus through proper sanitation and management of vectors.",
+    "suggested_pesticides": []
+  },
+  "Tomato_Leaf_Yellow_Virus": {
+    "description": "Tomato leaf affected by yellow leaf curl virus, a viral disease.",
+    "symptoms": "Yellowing, curling, and distortion of the leaf, stunted growth.",
+    "causes": "Caused by various viruses, including Tomato yellow leaf curl virus.",
+    "treatment": "No specific cure for viral infections; control measures focus on preventing the spread of the virus through proper sanitation and management of vectors.",
+    "suggested_pesticides": []
+  },
+  "Tomato_Leaf": {
+    "description": "Healthy tomato leaf without any specific diseases or abnormalities.",
+    "symptoms": "No visible symptoms of diseases or infections.",
+    "causes": "N/A",
+    "treatment": "No treatment required for a healthy tomato leaf.",
+    "suggested_pesticides": []
+  },
+  "Tomato_Mold_Leaf": {
+    "description": "Tomato leaf affected by mold, a common issue caused by various fungi.",
+    "symptoms": "Fuzzy or powdery growth on the leaf surface.",
+    "causes": "Caused by various mold fungi, including Alternaria spp.",
+    "treatment": "Fungicides, proper air circulation, and pruning to manage mold on tomato leaves.",
+    "suggested_pesticides": ["Fungicide O"]
+  },
+  "Tomato_Septoria_Leaf_Spot": {
+    "description": "Tomato leaf affected by Septoria leaf spot, a common fungal disease.",
+    "symptoms": "Small, circular spots with a tan or gray center and dark edges on the leaf surface.",
+    "causes": "Caused by the fungus Septoria lycopersici.",
+    "treatment": "Fungicides, proper plant spacing, and good garden hygiene to manage Septoria leaf spot.",
+    "suggested_pesticides": ["Fungicide P"]
+  }
+}
